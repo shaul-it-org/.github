@@ -21,7 +21,7 @@ Claude Code로 구동되는 AI 에이전트 기반 소프트웨어 개발 조직
 | **Frontend** | Web/Mobile UI 개발 | React, Vue, TypeScript, Flutter |
 | **QA** | 테스트 자동화, 품질 관리 | Playwright, Jest, k6 |
 | **Security** | 보안 검토, 취약점 분석 | OWASP, SonarQube, Trivy |
-| **DevOps** | CI/CD, 인프라, 배포 | K8s, Docker, Terraform |
+| **DevOps** | CI/CD, 인프라, 배포 | Docker, GitHub Actions |
 | **Data** | 데이터 파이프라인, 분석 | PostgreSQL, DuckDB, Kafka |
 | **Docs** | 기술 문서, API 문서 | Markdown, Mermaid, OpenAPI |
 
@@ -117,7 +117,7 @@ Plan (계획) → Do (실행) → Check (점검/회고) → Act (개선) → (�
 | **Backend** | Laravel 12, SpringBoot 3, Go 1.22+ |
 | **Frontend** | React, Vue, TypeScript, Flutter |
 | **Database** | PostgreSQL, MySQL, MongoDB, Redis |
-| **Infrastructure** | Kubernetes, Docker, Terraform, AWS/GCP |
+| **Infrastructure** | Docker |
 | **CI/CD** | Jenkins, GitHub Actions |
 | **Monitoring** | Sentry, Prometheus, Grafana |
 | **Testing** | Playwright, Jest, k6 |
