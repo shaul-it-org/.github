@@ -18,8 +18,8 @@ Claude Code로 구동되는 AI 에이전트 기반 소프트웨어 개발 조직
 | **Laravel** | PHP/Laravel API 개발 (TDD) | PHP 8.4, Laravel 12 |
 | **Spring** | Kotlin/SpringBoot 마이크로서비스 | Kotlin 2.0, SpringBoot 3 |
 | **Go** | Golang 고성능 서비스 | Go 1.22+, Gin/Echo |
-| **Frontend** | Web/Mobile UI 개발 | React, Vue, TypeScript, Flutter |
-| **QA** | 테스트 자동화, 품질 관리 | Playwright, Jest, k6 |
+| **Frontend** | Web UI 개발 | React, TypeScript |
+| **QA** | 테스트 자동화, 품질 관리 | Playwright, Jest |
 | **Security** | 보안 검토, 취약점 분석 | OWASP, SonarQube, Trivy |
 | **DevOps** | CI/CD, 인프라, 배포 | Docker, GitHub Actions |
 | **Data** | 데이터 파이프라인, 분석 | PostgreSQL, DuckDB, Kafka |
@@ -115,12 +115,12 @@ Plan (계획) → Do (실행) → Check (점검/회고) → Act (개선) → (�
 | Category | Technologies |
 |:---------|:-------------|
 | **Backend** | Laravel 12, SpringBoot 3, Go 1.22+ |
-| **Frontend** | React, Vue, TypeScript, Flutter |
+| **Frontend** | React, TypeScript |
 | **Database** | PostgreSQL, MySQL, MongoDB, Redis |
 | **Infrastructure** | Docker |
 | **CI/CD** | Jenkins, GitHub Actions |
 | **Monitoring** | Sentry, Prometheus, Grafana |
-| **Testing** | Playwright, Jest, k6 |
+| **Testing** | Playwright, Jest |
 
 ---
 
